@@ -16,7 +16,7 @@ Mi personaje al momento de precionar un boton este movera los brazos con ayuda d
 |HC-SR04|<img src="https://github.com/user-attachments/assets/f0885ad1-58f5-431d-828b-bf01f25ffe03" width="120"/>|1|$130|
 |DHT22|<img src="https://github.com/user-attachments/assets/304f770f-d1a0-4c96-ac00-b23db40c19a5" width="120"/>|1|$85|
 |Led RGB|<img src="https://github.com/user-attachments/assets/f2648852-2de1-4667-9098-476a4d1c2343" width="120"/>|1|$11|
-|Fotoresistencia|<img src="https://github.com/user-attachments/assets/19dd30ac-f9eb-46ee-9cb1-8e354cbedd6f" width="120"/>|1|$20|
+|Pulsador|<img src="https://github.com/user-attachments/assets/50bcb9f8-4aa4-4f9c-80f7-52af3f1f8af9" width="120"/>|1|?|
 |PIR|<img src="https://github.com/user-attachments/assets/a40fadd1-58d0-4e48-8306-80a3708e4454" width="120"/>|1|$43|
 |Servo|<img src="https://github.com/user-attachments/assets/b0a1247e-13e4-4cc3-a050-f7792bcf235e" width="120"/>|2|$55|
 |Buzzer|<img src="https://github.com/user-attachments/assets/421284a1-ccc8-4d87-801a-94385556d2cd" width="120"/>|1|$46|
