@@ -15,6 +15,8 @@ Mi personaje al momento de que se acerca a unos 15 centimetros este comienza a m
 |ESP32|<img src="https://github.com/user-attachments/assets/32e36f85-9e75-4b46-9af0-002f56633eb7" width="120"/>|1|$120|
 |HC-SR04|<img src="https://github.com/user-attachments/assets/f0885ad1-58f5-431d-828b-bf01f25ffe03" width="120"/>|1|$130|
 |DHT22|<img src="https://github.com/user-attachments/assets/304f770f-d1a0-4c96-ac00-b23db40c19a5" width="120"/>|1|$85|
+|Led RGB|<img src="https://github.com/user-attachments/assets/f2648852-2de1-4667-9098-476a4d1c2343" width="120"/>|1|$11|
+|Fotoresistencia|<img src="https://github.com/user-attachments/assets/19dd30ac-f9eb-46ee-9cb1-8e354cbedd6f" width="120"/>|1|$20|
 
 ## Software a Utilizar
 |Software|Version|
