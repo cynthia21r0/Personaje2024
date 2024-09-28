@@ -35,7 +35,7 @@ Mi personaje al momento de precionar un boton este movera los brazos con ayuda d
 |Thonny|4.1.6|
 
 ## Dibujo del Prototipo
-<img src="https://github.com/user-attachments/assets/0d0afdb6-5e76-4f39-863c-fdb5c091852e">
+<img src="https://github.com/user-attachments/assets/0d0afdb6-5e76-4f39-863c-fdb5c091852e" width="700px">
 
 ## Enlaces de la simulación de wokwi
 Enlace del instrumento de evaluación: https://wokwi.com/projects/410233987835626497
@@ -48,12 +48,12 @@ Video de la explicación del instrumento: https://www.youtube.com/watch?v=IH0yfd
 Video de la explicación del personaje: https://youtu.be/8UtptXlaoRY
 
 ## Imagen de la captura de pantalla de los examenes de cisco C (los 5 modulos y la evaluación final)
-![image](https://github.com/user-attachments/assets/e43277cd-e3ab-4302-b52d-7ce8efe2a875)
-![image](https://github.com/user-attachments/assets/22cccd35-7c21-4925-aa61-a1a304f1a728)
-![image](https://github.com/user-attachments/assets/3dfe4412-6286-4ddd-87b3-2e329f714a8d)
-![image](https://github.com/user-attachments/assets/5fcb6dfd-bcc4-4c7e-b968-64d0fc2a50d5)
-![image](https://github.com/user-attachments/assets/83ab2e4c-5138-4ef1-8cbd-a3adae012210)
-![image](https://github.com/user-attachments/assets/220a29ae-90fb-4c7b-bc7c-705308f64856)
+<img src="https://github.com/user-attachments/assets/e43277cd-e3ab-4302-b52d-7ce8efe2a875" width="500px">
+<img src="https://github.com/user-attachments/assets/22cccd35-7c21-4925-aa61-a1a304f1a728" width="500px">
+<img src="https://github.com/user-attachments/assets/3dfe4412-6286-4ddd-87b3-2e329f714a8d" width="500px">
+<img src="https://github.com/user-attachments/assets/5fcb6dfd-bcc4-4c7e-b968-64d0fc2a50d5" width="500px">
+<img src="https://github.com/user-attachments/assets/83ab2e4c-5138-4ef1-8cbd-a3adae012210" width="500px">
+<img src="https://github.com/user-attachments/assets/220a29ae-90fb-4c7b-bc7c-705308f64856" width="500px">
 
 
 
