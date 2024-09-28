@@ -38,10 +38,13 @@ Mi personaje al momento de precionar un boton este movera los brazos con ayuda d
 ## Dibujo del Prototipo
 <img src="https://github.com/user-attachments/assets/0d0afdb6-5e76-4f39-863c-fdb5c091852e">
 
-
 ## Enlaces de la simulación de wokwi
+Enlace del instrumento de evaluación: https://wokwi.com/projects/410233987835626497
+Enlace de la simulación del muñeco: 
 
 ## Videos
+Video de la explicación del instrumento:
+Video de la explicación de la simulación del personaje: 
 
 ## Imagen de la captura de pantalla de los examenes de cisco C (los 5 modulos y la evaluación final)
 
