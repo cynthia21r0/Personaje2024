@@ -13,7 +13,6 @@ Mi personaje al momento de precionar un boton este movera los brazos con ayuda d
 |Material | Imagen | Cantidad |Precio |
 |--|--|--|--|
 |ESP32|<img src="https://github.com/user-attachments/assets/32e36f85-9e75-4b46-9af0-002f56633eb7" width="120"/>|1|$120|
-|HC-SR04|<img src="https://github.com/user-attachments/assets/f0885ad1-58f5-431d-828b-bf01f25ffe03" width="120"/>|1|$130|
 |DHT22|<img src="https://github.com/user-attachments/assets/304f770f-d1a0-4c96-ac00-b23db40c19a5" width="120"/>|1|$85|
 |Led RGB|<img src="https://github.com/user-attachments/assets/f2648852-2de1-4667-9098-476a4d1c2343" width="120"/>|1|$11|
 |Pulsador|<img src="https://github.com/user-attachments/assets/50bcb9f8-4aa4-4f9c-80f7-52af3f1f8af9" width="120"/>|1|?|
