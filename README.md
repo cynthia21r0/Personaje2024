@@ -7,7 +7,7 @@ Santa Claus
 Cynthia Janeth Granados Estrada
 
 ## Expliacación de funcionamiento del personaje:
-Mi personaje al momento de precionar un boton este movera los brazos con ayuda de dos servos, también con uso de un sensor de temperatura si detecta una temperatura baja prendera un led rgb de color azul y si es alta sera de color rojo, ademas cuando detecte movimiento por medio de un sensor de movimiento este reproducira una canción.
+Mi personaje al momento de precionar un boton este movera los brazos con ayuda de dos servos, también con uso de un sensor de temperatura si detecta una temperatura baja prendera dos led rgb de color azul a cada lado del Santa Claus y si es alta sera de color rojo, ademas cuando detecte movimiento por medio de un sensor de movimiento este reproducira una canción.
 
 ## Materiales a utilizar:
 |Material | Imagen | Cantidad |Precio |
