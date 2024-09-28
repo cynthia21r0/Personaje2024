@@ -40,6 +40,7 @@ Mi personaje al momento de precionar un boton este movera los brazos con ayuda d
 
 ## Enlaces de la simulación de wokwi
 Enlace del instrumento de evaluación: https://wokwi.com/projects/410233987835626497
+
 Enlace de la simulación del muñeco: 
 
 ## Videos
