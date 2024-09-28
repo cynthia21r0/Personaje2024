@@ -7,7 +7,7 @@ Santa Claus
 Cynthia Janeth Granados Estrada
 
 ## Expliacación de funcionamiento del personaje:
-Mi personaje al momento de que se acerca a unos 15 centimetros este comienza a mover los brazos usando un sensor de proximidad, también con uso de un sensor de temperatura si detecta una temperatura baja prendera un led rgb de color azul y si es alta sera de color rojo, ademas si detecta una luminosidad baja encendera unos led que seran sus ojos y si la luminosidad es alta entonces apagara los led que simulan los ojos
+Mi personaje al momento de precionar un boton este movera los brazos con ayuda de dos servos, también con uso de un sensor de temperatura si detecta una temperatura baja prendera un led rgb de color azul y si es alta sera de color rojo, ademas cuando detecte movimiento por medio de un sensor de movimiento este reproducira una canción.
 
 ## Materiales a utilizar:
 |Material | Imagen | Cantidad |Precio |
@@ -16,6 +16,11 @@ Mi personaje al momento de que se acerca a unos 15 centimetros este comienza a m
 |HC-SR04|<img src="https://github.com/user-attachments/assets/f0885ad1-58f5-431d-828b-bf01f25ffe03" width="120"/>|1|$130|
 |DHT22|<img src="https://github.com/user-attachments/assets/304f770f-d1a0-4c96-ac00-b23db40c19a5" width="120"/>|1|$85|
 |Led RGB|<img src="https://github.com/user-attachments/assets/f2648852-2de1-4667-9098-476a4d1c2343" width="120"/>|1|$11|
+|Fotoresistencia|<img src="https://github.com/user-attachments/assets/19dd30ac-f9eb-46ee-9cb1-8e354cbedd6f" width="120"/>|1|$20|
+|PIR|<img src="https://github.com/user-attachments/assets/a40fadd1-58d0-4e48-8306-80a3708e4454" width="120"/>|1|$43|
+|Servo|<img src="https://github.com/user-attachments/assets/b0a1247e-13e4-4cc3-a050-f7792bcf235e" width="120"/>|2|$55|
+|Buzzer|<img src="https://github.com/user-attachments/assets/421284a1-ccc8-4d87-801a-94385556d2cd" width="120"/>|1|$46|
+|Fotoresistencia|<img src="https://github.com/user-attachments/assets/19dd30ac-f9eb-46ee-9cb1-8e354cbedd6f" width="120"/>|1|$20|
 |Fotoresistencia|<img src="https://github.com/user-attachments/assets/19dd30ac-f9eb-46ee-9cb1-8e354cbedd6f" width="120"/>|1|$20|
 
 ## Software a Utilizar
