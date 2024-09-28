@@ -36,7 +36,8 @@ Mi personaje al momento de precionar un boton este movera los brazos con ayuda d
 |Thonny|4.1.6|
 
 ## Dibujo del Prototipo
-Imagen (Puede ser hecha a mano o software)
+<img src="https://github.com/user-attachments/assets/0d0afdb6-5e76-4f39-863c-fdb5c091852e">
+
 
 ## Enlaces de la simulación de wokwi
 
