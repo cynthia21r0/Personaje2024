@@ -20,12 +20,14 @@ Mi personaje al momento de precionar un boton este movera los brazos con ayuda d
 |PIR|<img src="https://github.com/user-attachments/assets/a40fadd1-58d0-4e48-8306-80a3708e4454" width="120"/>|1|$43|
 |Servo|<img src="https://github.com/user-attachments/assets/b0a1247e-13e4-4cc3-a050-f7792bcf235e" width="120"/>|2|$55|
 |Buzzer|<img src="https://github.com/user-attachments/assets/421284a1-ccc8-4d87-801a-94385556d2cd" width="120"/>|1|$46|
+|Cables|<img src="https://github.com/user-attachments/assets/18a62ae5-7904-4dab-a412-6aa2bd50b7ef" width="120"/>|?|?|
+|Cable USB|<img src="https://github.com/user-attachments/assets/834f603d-1e84-46f3-9c84-c6b19f223014" width="120"/>|1|$20|
 |Tela roja|<img src="https://github.com/user-attachments/assets/51038f44-b13f-42cb-81a5-e9d69665ff19" width="120"/>|?|?|
 |Tela blanca|<img src="https://github.com/user-attachments/assets/dae8a618-8b1a-4001-b2ca-17325a931870" width="120"/>|?|?|
 |Liston negro|<img src="https://github.com/user-attachments/assets/ddd781c0-ffed-496f-9f59-83aee0bcc031" width="120"/>|1|?|
 |Triplay|<img src="https://github.com/user-attachments/assets/b7b73865-d9c4-4c3c-8fef-ff5f62d41a23" width="120"/>|1|?|
 |Pistola de silicon|<img src="https://github.com/user-attachments/assets/45cefb54-cbfb-4076-a480-f5fd20e9e669" width="120"/>|1|$109|
-
+|Tijeras|<img src="https://github.com/user-attachments/assets/f50afda1-5c14-4f1c-a6b3-03c71508b6b5" width="120"/>|1|$20|
 
 ## Software a Utilizar
 |Software|Version|
