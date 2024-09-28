@@ -7,7 +7,7 @@ Santa Claus
 Cynthia Janeth Granados Estrada
 
 ## Expliacación de funcionamiento del personaje:
-Mi personaje al momento de que se acerca a 15 centimetros una persona comienza a bailar (luz, sonido y movimiento)
+Mi personaje al momento de que se acerca a unos 15 centimetros este comienza a mover los brazos, también con uso de un sensor de temperatura 
 
 ## Materiales a utilizar:
 |Material | Imagen | Cantidad |Precio |
