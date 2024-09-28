@@ -44,7 +44,7 @@ Enlace del instrumento de evaluación: https://wokwi.com/projects/41023398783562
 Enlace de la simulación del muñeco: 
 
 ## Videos
-Video de la explicación del instrumento:
+Video de la explicación del instrumento: https://www.youtube.com/watch?v=IH0yfdoshvw
 
 Video de la explicación de la simulación del personaje: 
 
