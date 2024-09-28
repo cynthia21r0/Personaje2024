@@ -40,8 +40,12 @@ Mi personaje al momento de precionar un boton este movera los brazos con ayuda d
 ## Enlaces de la simulación de wokwi
 Enlace del instrumento de evaluación: https://wokwi.com/projects/410233987835626497
 
+Enlace de la simulación del personaje: https://wokwi.com/projects/410239207946247169
+
 ## Videos
 Video de la explicación del instrumento: https://www.youtube.com/watch?v=IH0yfdoshvw
+
+Video de la explicación del personaje: https://youtu.be/8UtptXlaoRY
 
 ## Imagen de la captura de pantalla de los examenes de cisco C (los 5 modulos y la evaluación final)
 ![image](https://github.com/user-attachments/assets/e43277cd-e3ab-4302-b52d-7ce8efe2a875)
