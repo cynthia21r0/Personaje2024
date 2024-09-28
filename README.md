@@ -32,6 +32,8 @@ Mi personaje al momento de precionar un boton este movera los brazos con ayuda d
 ## Software a Utilizar
 |Software|Version|
 |--|--|
+|Arduino IDE|2.3.3|
+|Thonny|4.1.6|
 
 ## Dibujo del Prototipo
 Imagen (Puede ser hecha a mano o software)
